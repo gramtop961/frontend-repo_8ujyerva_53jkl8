@@ -1,4 +1,4 @@
-import { Menu, Phone, Calendar, FormsIcon } from 'lucide-react'
+import { Menu, Phone, Calendar } from 'lucide-react'
 
 const navItems = [
   { label: 'Accueil', href: '#accueil' },
